@@ -1,13 +1,16 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+formspree_form_id: formspree_form_id
+name: Jonez
+title: Jonez Blog
+description: Il blog ufficiale di Gabriel Jones, scoprimi e esplora i miei
+  interessi, e le mie ricerche
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - bambini
+  - formazione
+  - informatica
+  - netflix
+  - politica
+  - lifestyle
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +21,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: info@18f.it
+disqus_username: ""
