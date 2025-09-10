@@ -7,6 +7,8 @@ subtitle: Come scegliere il momento migliore per iniziare a correre e renderlo
 description: Un articolo pratico su come iniziare a correre la mattina presto o
   la sera, con consigli utili, vantaggi e suggerimenti per creare una routine
   sostenibile.
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xP02Fwo6f_3EVrRiQ9shQnR367AxGqCiGg&s
+optimized_image: https://www.maratoninadeiborghi.it/site/media/simple-responsive-slideshow/slide_10.jpg
 category: "{{slug}}"
 tags:
   - corsa
